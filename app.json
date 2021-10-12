@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "PriceChecker2",
+    "slug": "PriceChecker2",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "PriceChecker2"
+}
