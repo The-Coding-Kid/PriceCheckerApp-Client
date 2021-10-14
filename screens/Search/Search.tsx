@@ -1,4 +1,5 @@
 import React from 'react';
+import MapView from 'react-native-maps';
 import { View, Text, StyleSheet } from 'react-native';
 
 const Home = () => {
